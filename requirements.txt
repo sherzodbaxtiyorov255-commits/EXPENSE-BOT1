@@ -5,3 +5,5 @@ pytesseract==0.3.13
 Pillow==11.0.0
 SpeechRecognition==3.10.4
 pydub==0.25.1
+audioop-lts==0.2.2
+ 
